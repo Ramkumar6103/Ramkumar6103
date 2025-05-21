@@ -8,7 +8,6 @@
 - 🧠 I’m currently learning: **Technology/Framework**
 - 🤝 I’m looking to collaborate on: **Open Source / Freelance Projects**
 - 💬 Ask me about: **Tech topics / Tools / Frameworks**
-- ⚡ Fun fact: *I write better code than I play games 😄*
 - 🎮 Gaming Skills: *I write better code than I play games (still working on the high score).*
 - 🎬 Movie & Series Buff: *I binge-watch movies and web series like it’s an Olympic sport.*
 - 💡 Daily Challenge: *I solve at least one LeetCode problem every day to keep my brain sharp.*
