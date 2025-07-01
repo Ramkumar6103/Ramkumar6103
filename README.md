@@ -73,7 +73,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ramkumar6103&show_icons=true&theme=dark" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramkumar6103&theme=dark" />
+<img src="https://streak-stats.demolab.com/?user=Ramkumar6103&theme=dark" alt="GitHub Streak" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramkumar6103&theme=dark" />
 </p>
