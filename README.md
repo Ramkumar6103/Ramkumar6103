@@ -62,6 +62,12 @@
 
 ---
 
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ramkumar6103)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📄 Resume
 
 [![Download Resume](https://img.shields.io/badge/Download_Resume-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://ramkumar6103.github.io/portfolio.github.io/assets/files/Resume.pdf)
